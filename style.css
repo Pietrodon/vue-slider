@@ -1,0 +1,34 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.img-principale{
+    position: relative;
+    height: 242px;
+}
+
+.img-laterale{
+    width: 135px;
+    height: 60px;
+}
+.img-uno{
+    position: absolute;
+    right: 293px;
+    bottom: 414px;
+}
+.img-due{
+    position: absolute;
+    right: 293px;
+    bottom: 354px;
+}
+.img-tre{
+    position: absolute;
+    right: 293px;
+}
+.img-quattro{
+    position: absolute;
+    right: 293px;
+    bottom: 233px;
+}
